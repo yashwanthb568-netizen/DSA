@@ -22,6 +22,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/yashwanthb568-netizen/DSA/tree/master/0001-two-sum) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/yashwanthb568-netizen/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Two Pointers
 |  |
@@ -35,5 +36,6 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/yashwanthb568-netizen/DSA/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/yashwanthb568-netizen/DSA/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
